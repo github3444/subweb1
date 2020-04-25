@@ -14,7 +14,7 @@
   - 2.下载源码：
   ```bash
   cd 
- git clone -b admin https://github.com/lzdnico/subweb.git
+ git clone -b admin https://github.com/github3444/subweb.git
   ```
   - 3.安装库： 
   ```bash
@@ -23,7 +23,7 @@
   ```
   - 4.开始运行：
   ```bash
-  chmod 777 /root//subweb/subweb.sh
+  chmod 777 /root/subweb/subweb.sh
   cd /root/subweb 
   ./subweb.sh 
   ```
