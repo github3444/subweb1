@@ -27,6 +27,8 @@
   cd /root/subweb 
   ./subweb.sh 
   ```
+  或直接将subweb文件夹导入到服务器root文件下即可
+  
   - 5.登陆管理页面：登陆地址：http://ip:10086/admin             
 
     首先修改前后端地址以及管理员密码，在内容框复制：
